@@ -1,4 +1,4 @@
-# MTG Life Counter
+# MTG 
 
 Aplicación web sencilla desarrollada con **React + Vite** para llevar el conteo de vidas de dos jugadores en partidas de **Magic: The Gathering**.
 
